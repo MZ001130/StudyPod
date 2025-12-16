@@ -1,1 +1,1 @@
-# StudyPod
+# AutoDidact
